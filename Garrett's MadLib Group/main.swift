@@ -10,7 +10,7 @@ import Foundation
 
 print("Hello, World!")
 print("hello Welcome to Garrett's Group!")
-//Tai
+//Tai ._.
 //Hello - Jonah
 
 // What would be a Good Group Name?
