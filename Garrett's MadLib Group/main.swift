@@ -24,12 +24,9 @@ func input() -> String {
 // What would be a Good Group Name?
 //Interaining?
 //Clueless, actually, that'd be a good name. Clueless. - J
+//Clueless or Interaining..interesting
+//oh should we create a chat thingy? would make life easier 
 
-func input() -> String {
-    var keyboard = NSFileHandle.fileHandleWithStandardInput()
-    var inputData = keyboard.availableData
-    var strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
-    
-    return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
-}
-//snagged it from the Inputs playground we did a long time ago. We'll probably need this. - J.
+/*We can use an IRC. Ever used one before?
+https://www.rizon.net/chat
+Channel is #plebsqualor */
