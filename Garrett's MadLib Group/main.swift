@@ -10,3 +10,4 @@ import Foundation
 
 print("Hello, World!")
 print("hello Welcome to Garrett's Group!")
+print("Taichen is not here ._.")
