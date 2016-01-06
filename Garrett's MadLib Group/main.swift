@@ -25,3 +25,4 @@ func input() -> String {
 //Interaining?
 //Clueless, actually, that'd be a good name. Clueless. - J
 //Clueless or Interaining..interesting
+//oh should we create a chat thingy? would make life easier 
