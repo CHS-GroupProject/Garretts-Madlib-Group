@@ -20,3 +20,8 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+
+// What would be a Good Group Name?
+//Interaining?
+//Clueless, actually, that'd be a good name. Clueless. - J
+//Clueless or Interaining..interesting
