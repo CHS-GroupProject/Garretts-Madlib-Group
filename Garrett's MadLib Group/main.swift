@@ -25,10 +25,11 @@ https://www.rizon.net/chat
 Channel is #plebsqualor
 Use your name, if it's already registered, it puts an underscore beside it.*/
 
-func input() -> String {
+/*func input() -> String {
     let keyboard = NSFileHandle.fileHandleWithStandardInput()
     let inputData = keyboard.availableData
     let strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+*\
