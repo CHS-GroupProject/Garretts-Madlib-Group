@@ -30,4 +30,4 @@ func input() -> String {
 /*We can use an IRC. Ever used one before?
 https://www.rizon.net/chat
 Channel is #plebsqualor
-Use your name, if it's already registered, put a number beside it..*/
+Use your name, if it's already registered, it puts an underscore beside it.*/
