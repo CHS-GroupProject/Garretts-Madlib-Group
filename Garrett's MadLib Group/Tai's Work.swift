@@ -11,9 +11,9 @@ import Foundation
 // And  Assisting in Creating The Menu (We Will all work as a Group on this
 
 func input() -> String{
-    let keyboard = NSFileHandle.fileHandleWithStandardInput()
-    let inputData = keyboard.availableData
-    let strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
+    var keyboard = NSFileHandle.fileHandleWithStandardInput()
+    var inputData = keyboard.availableData
+    var strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
