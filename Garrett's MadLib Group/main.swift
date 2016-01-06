@@ -26,3 +26,8 @@ func input() -> String {
 //Clueless, actually, that'd be a good name. Clueless. - J
 //Clueless or Interaining..interesting
 //oh should we create a chat thingy? would make life easier 
+
+/*We can use an IRC. Ever used one before?
+https://www.rizon.net/chat
+Channel is #plebsqualor
+Use your name, if it's already registered, put a number beside it..*/
