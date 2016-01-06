@@ -88,6 +88,9 @@
 		DC8335541C3D6EA80079DDC7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Garrett Machen";
 				TargetAttributes = {
@@ -236,6 +239,7 @@
 				DC8335651C3D6EA80079DDC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
