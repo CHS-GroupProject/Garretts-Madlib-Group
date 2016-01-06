@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DC83355B1C3D6EA80079DDC7"
-               BuildableName = "Garrett&apos;s MadLib Group"
-               BlueprintName = "Garrett&apos;s MadLib Group"
-               ReferencedContainer = "container:Garrett&apos;s MadLib Group.xcodeproj">
+               BuildableName = "Clueless Group"
+               BlueprintName = "Clueless Group"
+               ReferencedContainer = "container:Clueless Group.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DC83355B1C3D6EA80079DDC7"
-            BuildableName = "Garrett&apos;s MadLib Group"
-            BlueprintName = "Garrett&apos;s MadLib Group"
-            ReferencedContainer = "container:Garrett&apos;s MadLib Group.xcodeproj">
+            BuildableName = "Clueless Group"
+            BlueprintName = "Clueless Group"
+            ReferencedContainer = "container:Clueless Group.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DC83355B1C3D6EA80079DDC7"
-            BuildableName = "Garrett&apos;s MadLib Group"
-            BlueprintName = "Garrett&apos;s MadLib Group"
-            ReferencedContainer = "container:Garrett&apos;s MadLib Group.xcodeproj">
+            BuildableName = "Clueless Group"
+            BlueprintName = "Clueless Group"
+            ReferencedContainer = "container:Clueless Group.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DC83355B1C3D6EA80079DDC7"
-            BuildableName = "Garrett&apos;s MadLib Group"
-            BlueprintName = "Garrett&apos;s MadLib Group"
-            ReferencedContainer = "container:Garrett&apos;s MadLib Group.xcodeproj">
+            BuildableName = "Clueless Group"
+            BlueprintName = "Clueless Group"
+            ReferencedContainer = "container:Clueless Group.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

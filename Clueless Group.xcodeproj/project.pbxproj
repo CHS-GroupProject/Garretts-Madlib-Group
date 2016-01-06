@@ -29,7 +29,7 @@
 		DC6354BB1C3D9ABE00624FB9 /* Jonah's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Jonah's Work.swift"; sourceTree = "<group>"; };
 		DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tai's Work.swift"; sourceTree = "<group>"; };
 		DC6354BF1C3D9AE200624FB9 /* Garrett's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Garrett's Work.swift"; sourceTree = "<group>"; };
-		DC83355C1C3D6EA80079DDC7 /* Garrett's MadLib Group */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Garrett's MadLib Group"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC83355C1C3D6EA80079DDC7 /* Clueless Group */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Clueless Group"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC83355F1C3D6EA80079DDC7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,7 +55,7 @@
 		DC83355D1C3D6EA80079DDC7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DC83355C1C3D6EA80079DDC7 /* Garrett's MadLib Group */,
+				DC83355C1C3D6EA80079DDC7 /* Clueless Group */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,9 +74,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DC83355B1C3D6EA80079DDC7 /* Garrett's MadLib Group */ = {
+		DC83355B1C3D6EA80079DDC7 /* Clueless Group */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC8335631C3D6EA80079DDC7 /* Build configuration list for PBXNativeTarget "Garrett's MadLib Group" */;
+			buildConfigurationList = DC8335631C3D6EA80079DDC7 /* Build configuration list for PBXNativeTarget "Clueless Group" */;
 			buildPhases = (
 				DC8335581C3D6EA80079DDC7 /* Sources */,
 				DC8335591C3D6EA80079DDC7 /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = "Garrett's MadLib Group";
+			name = "Clueless Group";
 			productName = "Garrett's MadLib Group";
-			productReference = DC83355C1C3D6EA80079DDC7 /* Garrett's MadLib Group */;
+			productReference = DC83355C1C3D6EA80079DDC7 /* Clueless Group */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DC8335571C3D6EA80079DDC7 /* Build configuration list for PBXProject "Garrett's MadLib Group" */;
+			buildConfigurationList = DC8335571C3D6EA80079DDC7 /* Build configuration list for PBXProject "Clueless Group" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -120,7 +120,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DC83355B1C3D6EA80079DDC7 /* Garrett's MadLib Group */,
+				DC83355B1C3D6EA80079DDC7 /* Clueless Group */,
 			);
 		};
 /* End PBXProject section */
@@ -221,21 +221,21 @@
 		DC8335641C3D6EA80079DDC7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Clueless Group";
 			};
 			name = Debug;
 		};
 		DC8335651C3D6EA80079DDC7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Clueless Group";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DC8335571C3D6EA80079DDC7 /* Build configuration list for PBXProject "Garrett's MadLib Group" */ = {
+		DC8335571C3D6EA80079DDC7 /* Build configuration list for PBXProject "Clueless Group" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC8335611C3D6EA80079DDC7 /* Debug */,
@@ -244,7 +244,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DC8335631C3D6EA80079DDC7 /* Build configuration list for PBXNativeTarget "Garrett's MadLib Group" */ = {
+		DC8335631C3D6EA80079DDC7 /* Build configuration list for PBXNativeTarget "Clueless Group" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC8335641C3D6EA80079DDC7 /* Debug */,
