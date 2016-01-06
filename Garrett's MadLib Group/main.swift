@@ -32,3 +32,4 @@ func input() -> String {
     
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
+// The Code above will net to be using Var instead of Let to be able to work properly
