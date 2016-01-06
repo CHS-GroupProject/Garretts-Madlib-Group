@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC6354BC1C3D9ABE00624FB9 /* Jonah's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6354BB1C3D9ABE00624FB9 /* Jonah's Work.swift */; settings = {ASSET_TAGS = (); }; };
+		DC6354BE1C3D9AD200624FB9 /* Tai's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */; settings = {ASSET_TAGS = (); }; };
+		DC6354C01C3D9AE200624FB9 /* Garrett's Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6354BF1C3D9AE200624FB9 /* Garrett's Work.swift */; settings = {ASSET_TAGS = (); }; };
 		DC8335601C3D6EA80079DDC7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC83355F1C3D6EA80079DDC7 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DC6354BB1C3D9ABE00624FB9 /* Jonah's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Jonah's Work.swift"; sourceTree = "<group>"; };
+		DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tai's Work.swift"; sourceTree = "<group>"; };
+		DC6354BF1C3D9AE200624FB9 /* Garrett's Work.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Garrett's Work.swift"; sourceTree = "<group>"; };
 		DC83355C1C3D6EA80079DDC7 /* Garrett's MadLib Group */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Garrett's MadLib Group"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC83355F1C3D6EA80079DDC7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				DC83355F1C3D6EA80079DDC7 /* main.swift */,
+				DC6354BB1C3D9ABE00624FB9 /* Jonah's Work.swift */,
+				DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */,
+				DC6354BF1C3D9AE200624FB9 /* Garrett's Work.swift */,
 			);
 			path = "Garrett's MadLib Group";
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC6354BC1C3D9ABE00624FB9 /* Jonah's Work.swift in Sources */,
+				DC6354C01C3D9AE200624FB9 /* Garrett's Work.swift in Sources */,
+				DC6354BE1C3D9AD200624FB9 /* Tai's Work.swift in Sources */,
 				DC8335601C3D6EA80079DDC7 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
