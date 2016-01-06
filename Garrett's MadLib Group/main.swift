@@ -12,6 +12,14 @@ print("Hello, World!")
 print("hello Welcome to Garrett's Group!")
 //Tai ._.
 //Hello - Jonah
+//Don't mind can be anything for name
+func input() -> String {
+    let keyboard = NSFileHandle.fileHandleWithStandardInput()
+    let inputData = keyboard.availableData
+    let strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
+    
+    return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
+}
 
 // What would be a Good Group Name?
 //Interaining?
