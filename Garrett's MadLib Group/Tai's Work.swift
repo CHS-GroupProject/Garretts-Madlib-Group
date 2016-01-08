@@ -34,5 +34,26 @@ func taiMadLib() {
     return taiMadLib()
 }
 
-
+func taiMadLib() {
+    print("Name")
+    let name = input()
+    
+    print("Favorite Store")
+    let favoriteStore = input()
+    
+    print("Color")
+    let color = input()
+    
+    print("Food")
+    let food = input()
+    
+    print("Friend's Name")
+    let friendsName = input()
+    
+    print("Favorite Movie")
+    let favoriteMovie = input()
+    
+    print("\(name) is walking to their favorite store, \(favoriteStore). Looks up at the sky, because apprently they like looking at sky stuff, and they saw the color \(color). They go to \(favoriteStore) and buy \(food). In this such store they meet a friend, named \(friendsName) and they talk about their favorite Movie which is \(favoriteMovie).")
+    print("Play again?")
+}
 
