@@ -8,6 +8,6 @@
 
 import Foundation
 
-print("hello Welcome to Garrett's Group!")
+print("Hello welcome to Garrett's group!")
 
 
