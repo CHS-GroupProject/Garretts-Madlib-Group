@@ -19,7 +19,7 @@ func input1() -> String {
  // And  Assisting in Creating The Menu (We Will all work as a Group on this
 
 var select = input()
-if select == "1" {
+ //if select == "1" {
     var play1 = true
     while play1 == true {
         
