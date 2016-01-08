@@ -20,22 +20,22 @@ func input() -> String{
 
 func taiMadLib() {
     print("Name")
-    var name = input()
+    let name = input()
     
     print("Favorite Store")
-    var favoriteStore = input()
+    let favoriteStore = input()
     
     print("Color")
-    var color = input()
+    let color = input()
     
     print("Food")
-    var food = input()
+    let food = input()
     
     print("Friend's Name")
-    var friendsName = input()
+    let friendsName = input()
     
     print("Favorite Movie")
-    var favoriteMovie = input()
+    let favoriteMovie = input()
     
     print("\(name) is walking to their favorite store, \(favoriteStore). Looks up at the sky, because apprently they like looking at sky stuff, and they saw the color \(color). They go to \(favoriteStore) and buy \(food). In this such store they meet a friend, named \(friendsName) and they talk about their favorite Movie which is \(favoriteMovie).")
     print("Play again?")
