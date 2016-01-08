@@ -7,6 +7,14 @@
 //
 
 import Foundation
+
+func input1() -> String {
+    var keyboard = NSFileHandle.fileHandleWithStandardInput()
+    var inputData = keyboard.availableData
+    var strData = NSString(data: inputData, encoding: NSUTF8StringEncoding)!
+    
+    return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
+}
 // Jonah Please Work on Finding and typeing up 2 Mad Lib Excersizes
  // And  Assisting in Creating The Menu (We Will all work as a Group on this
 
