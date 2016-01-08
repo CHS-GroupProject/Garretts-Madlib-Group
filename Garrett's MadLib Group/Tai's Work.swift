@@ -18,6 +18,8 @@ func input() -> String{
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
+
+
 func taiMadLib() {
     print("Name")
     let name = input()
