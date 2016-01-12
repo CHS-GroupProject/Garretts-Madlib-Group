@@ -126,6 +126,69 @@ func secondMadLib() {
 }
 
 func roadTripMadLib {
+    print("Adjective")
+    let adjective = input()
     
+    print("Place")
+    let place = input()
+    
+    print("Adjective")
+    let adjective1 = input()
+    
+    print("Adjective")
+    let adjective2 = input()
+    
+    print("Noun Plural")
+    let nounPlural = input()
+    
+    print("Noun Plural")
+    let nounPlural1 = input()
+    
+    print("Noun")
+    let noun = input()
+    
+    print("Verb")
+    let verb = input()
+    
+    print("Noun")
+    let noun1 = input()
+    
+    print("Verb")
+    let verb1 = input()
+    
+    print("Action Verb")
+    let actionVerb = input()
+    
+    print("Noun Plural")
+    let nounPlural2 = input()
+    
+    print("Noun")
+    let noun2 = input()
+    
+    print("Verb That Ends in 'ing'")
+    let verbThatEnds = input()
+    
+    print("Noun")
+    let noun3 = input()
+    
+    print("Measurement Of Time")
+    let measurementOfTime = input()
+    
+    print("Adjective")
+    let adjective3 = input()
+    
+    print("Action Verbs")
+    let actionVerb1 = input()
+    
+    print("Verb")
+    let verb2 = input()
+    
+    print("Adjective")
+    let adjective4 = input()
+    
+    print("Possessive Noun")
+    let possessiveNoun = input()
+    
+    print("On the \(adjective) trip to \(place), my \(adjective1) friend and I decided to invent a game. SInce this would be a rather \(adjective2) trip, it would need to be a game with \(nounPlural) and \(nounPlural1). Using our \(noun) to \(verb), we tried to get the \(noun1) next to us to play too, but they just \(verb1)ed at us and \(actionVerb) away. After a few rounds, we thought the game could use some \(nounPlural2) so we turned on the \(noun2) and started \(verbThatEnds) to the \(noun3) that came on. This lasted for \(measurementOfTime) before I got \(adjective3) and decided to \(actionVerb1) I'll never \(verb2) that trip, it was the \(adjective4) road trip of my \(possessiveNoun)")
 }
 
