@@ -125,4 +125,7 @@ func secondMadLib() {
     print("There are many \(adjective) ways to choose a/an \(noun) to read. First, you could ask for recommendations from your friends and \(pluralNoun). Just don't ask Aunt \(person) - she only reads \(adjective1) books with \(article)- ripping goddesses on the cover. If your friends and family are no help, try checking out the \(noun1) Review in The \(aCity) Times. If the \(pluralNoun1) featured there are too \(adjective2) for your taste, try something a little more low-\(partOfTheBody), like \(letterOfTheAlphabet): The \(celebrity) Magazine, or \(pluralNoun2) Magazine. You cold also choose a book the \(adjective3)-fashioned way. Head so your local library or \(aPlace) and browse the shelves until something catches your \(partOfTheBody1) Or, you could save yourself a whole lot of \(adjective4) trouble and log on to www.bookish.com, the \(adjective5) new website to \(verb) for books! With all the time you'll save not having to search for \(pluralNoun3) you can read \(number) more books!")
 }
 
+func roadTripMadLib {
+    
+}
 
