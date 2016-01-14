@@ -20,7 +20,7 @@ func input2() -> String{
 
 
 
-func taiMadLib() {
+func taiMadLib1() {
     print("Name")
     let name = input()
     

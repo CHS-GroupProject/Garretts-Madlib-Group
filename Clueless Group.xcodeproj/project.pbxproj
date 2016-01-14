@@ -63,9 +63,9 @@
 		DC83355E1C3D6EA80079DDC7 /* Garrett's MadLib Group */ = {
 			isa = PBXGroup;
 			children = (
+				DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */,
 				DC83355F1C3D6EA80079DDC7 /* main.swift */,
 				DC6354BB1C3D9ABE00624FB9 /* Jonah's Work.swift */,
-				DC6354BD1C3D9AD200624FB9 /* Tai's Work.swift */,
 				DC6354BF1C3D9AE200624FB9 /* Garrett's Work.swift */,
 			);
 			path = "Garrett's MadLib Group";
