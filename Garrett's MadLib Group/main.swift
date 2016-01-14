@@ -55,11 +55,12 @@ func taiMadLib() {
     print("Play again?")
 }
 
+
 var pi = 0
 var pi1 = 0
 func menu() {
-    while pi < pi1{
-        print("This is a madlib about walking to the store")
-        taiMadLib()
+    for menu in  {
+        print(taiMadLib())
     }
+    print("Play Again? Type Y for Yes or N for NO")
 }
