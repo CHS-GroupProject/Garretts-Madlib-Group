@@ -11,3 +11,7 @@ import Foundation
 print("Hello welcome to Garrett's group!")
 
 //Testing ._.
+
+func menu() {
+    
+}
