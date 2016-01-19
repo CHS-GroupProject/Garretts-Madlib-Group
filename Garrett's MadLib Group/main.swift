@@ -9,7 +9,7 @@
 import Foundation
 
 print("Hello welcome to Garrett's group!")
-
+/*
 func input7() -> String{
     let keyboard = NSFileHandle.fileHandleWithStandardInput()
     let inputData = keyboard.availableData
@@ -18,8 +18,4 @@ func input7() -> String{
     return strData.stringByTrimmingCharactersInSet(NSCharacterSet.newlineCharacterSet())
 }
 
-
-func menu() {
-    
-    print("Play Again? Type Y for Yes or N for No")
-}
+*/

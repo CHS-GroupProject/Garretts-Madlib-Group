@@ -20,7 +20,7 @@ func input2() -> String{
 
 
 
-func taiMadLib1() {
+func Unexpected() {
     print("Name")
     let name = input()
     
@@ -55,7 +55,7 @@ func taiMadLib1() {
     print("Play again?")
 }
 
-func secondMadLib() {
+func Book() {
     print("Adjective")
     let adjective = input()
     
@@ -125,7 +125,7 @@ func secondMadLib() {
     print("There are many \(adjective) ways to choose a/an \(noun) to read. First, you could ask for recommendations from your friends and \(pluralNoun). Just don't ask Aunt \(person) - she only reads \(adjective1) books with \(article)- ripping goddesses on the cover. If your friends and family are no help, try checking out the \(noun1) Review in The \(aCity) Times. If the \(pluralNoun1) featured there are too \(adjective2) for your taste, try something a little more low-\(partOfTheBody), like \(letterOfTheAlphabet): The \(celebrity) Magazine, or \(pluralNoun2) Magazine. You cold also choose a book the \(adjective3)-fashioned way. Head so your local library or \(aPlace) and browse the shelves until something catches your \(partOfTheBody1) Or, you could save yourself a whole lot of \(adjective4) trouble and log on to www.bookish.com, the \(adjective5) new website to \(verb) for books! With all the time you'll save not having to search for \(pluralNoun3) you can read \(number) more books!") // I'm not exactly sure what this one is about but has to do with books I think and magazines. Used print to get people to hopefully type in what's asked to be typed in and but it in the input. - Taichen
 }
 
-func roadTripMadLib() {
+func RoadTrip() {
     print("Adjective")
     let adjective = input()
     
@@ -191,6 +191,5 @@ func roadTripMadLib() {
     
     print("On the \(adjective) trip to \(place), my \(adjective1) friend and I decided to invent a game. SInce this would be a rather \(adjective2) trip, it would need to be a game with \(nounPlural) and \(nounPlural1). Using our \(noun) to \(verb), we tried to get the \(noun1) next to us to play too, but they just \(verb1)ed at us and \(actionVerb) away. After a few rounds, we thought the game could use some \(nounPlural2) so we turned on the \(noun2) and started \(verbThatEnds) to the \(noun3) that came on. This lasted for \(measurementOfTime) before I got \(adjective3) and decided to \(actionVerb1) I'll never \(verb2) that trip, it was the \(adjective4) road trip of my \(possessiveNoun)") // Don't know what this one is either because I'm slow at life, but it has a lot of verbs and adjectives in it so guessing it might be a trip somewhere. Used print to type in the name of the thing, and had this inputed in the input of the paragragh to complete the madlib - Taichen
 }
-
 
 

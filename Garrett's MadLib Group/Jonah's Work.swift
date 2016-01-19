@@ -5,7 +5,7 @@
 //  Created by Coder on 1/6/16.
 //  Copyright © 2016 Garrett Machen. All rights reserved.
 //
-
+/*
 import Foundation
 
 func input1() -> String {
@@ -17,7 +17,7 @@ func input1() -> String {
 }
 // Jonah Please Work on Finding and typeing up 2 Mad Lib Excersizes
  // And  Assisting in Creating The Menu (We Will all work as a Group on this
-/*
+
 var select = input()
  //if select == "1" {
     var play1 = true
